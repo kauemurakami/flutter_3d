@@ -1,6 +1,6 @@
 # flutter_3d
 
-A new Flutter project.
+Example 3d items with package [ditredi](https://pub.dev/packages/ditredi/install)
 
 ## Getting Started
 
