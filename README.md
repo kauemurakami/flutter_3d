@@ -1,3 +1,4 @@
+[![Star on GitHub](https://img.shields.io/github/stars/kauemurakami/flutter_3d.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/kauemurakami/flutter_3d) 
 # flutter_3d
 
 Example 3d items with package [ditredi](https://pub.dev/packages/ditredi/install)
